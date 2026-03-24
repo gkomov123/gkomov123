@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Georgi  
 
+💻 Data processing specialist @ [Ipsos](https://www.ipsos.com/en)  
 💻 Software engineering student @ [SoftUni](https://softuni.bg)  
-🏨 Working in trades while coding my way into tech  
 🐍 Learning **Python**, **HTML/CSS**, and a bit of **JS**  
 
 📫 **Reach Me**
